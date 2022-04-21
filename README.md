@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamRnaik
-- 👀 I’m interested in ...Learning new technolgies
+- 👀 I’m interested in ...Learning new tech and seriously i am loving this 
 - 🌱 I’m currently learning ... full stack development
-- 💞️ I’m looking to collaborate on ... rest artitecture
+- 💞️ I’m looking to collaborate on ... rest artitecture and rest framework in love with rest 
 - 📫 How to reach me ...email me at shubhamnaikk1427@gmail.com
 
 <!---
